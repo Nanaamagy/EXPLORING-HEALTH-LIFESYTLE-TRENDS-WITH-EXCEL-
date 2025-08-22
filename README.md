@@ -1,19 +1,14 @@
 ## Table Of Content
 
-[# Project Overview]
-
-[# Objectives]
-
-[# Data Source]
-
-[# Tools Used]
-
-[# Skills_Demonstrated]
-
-[# Insights]
-
-[# Recommendations]
-
+- [PROJECT OVERVIEW](#project-overview)
+- [OBJECTIVES](#objectives)
+- [DATA SOURCE](#data-source)
+- [TOOLS](#tools)
+- [SKILLS DEMONSTARTED](#skills-demonstrated)
+- [INSIGHTS](#insights)
+- [RECOMMENDATIONS](#recommendations)
+- [DASHBOARD VISUALIZATION](dashboard-visualization)
+  
 
 # Project Overview [Sleep, Health & Lifestyle]
 This project explores the relationship between sleep patterns, physical activity, stress, and health outcomes using a rich dataset of 374 individuals. It aims to uncover behavioral and occupational trends that influence sleep disorders and overall well-being.
