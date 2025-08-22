@@ -1,4 +1,4 @@
-## Table Of Content
+# Table Of Content
 
 - [PROJECT OVERVIEW](#project-overview)
 - [OBJECTIVES](#objectives)
@@ -10,11 +10,11 @@
 - [DASHBOARD VISUALIZATION](dashboard-visualization)
   
 
-# Project Overview [Sleep, Health & Lifestyle]
+## Project Overview [Sleep, Health & Lifestyle]
 This project explores the relationship between sleep patterns, physical activity, stress, and health outcomes using a rich dataset of 374 individuals. It aims to uncover behavioral and occupational trends that influence sleep disorders and overall well-being.
 
 
-# 🎯 Objectives
+## 🎯 Objectives
 - Analyze sleep duration and quality across demographics and professions
 
 - Identify correlations between lifestyle factors (e.g., stress, activity level) and sleep disorders
@@ -26,15 +26,15 @@ This project explores the relationship between sleep patterns, physical activity
 - To uncover trends, risk factors, and potential indicators of sleep disorders to support data-driven public health and personal wellness recommendations.
    
 
-# 📊 Data Source  
+## 📊 Data Source  
 - Kaggle
   
   
-# 🛠 Tools Used
+## 🛠 Tools Used
 Excel: Data cleaning, pivot tables, summary statistics and Interactive dashboards and visual storytelling
 
 
-# 🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 - Data wrangling and transformation
 
 - Health analytics and behavioral segmentation
@@ -45,7 +45,7 @@ Excel: Data cleaning, pivot tables, summary statistics and Interactive dashboard
 
 - Correlation analysis and pattern recognition
 
-# Insights
+## Insights
 - Sleep Disorders: 42% of individuals suffer from either insomnia or sleep apnea
 
 - Gender Split: Fairly balanced (185 females, 189 males), but sleep quality slightly higher in females
@@ -59,7 +59,7 @@ Excel: Data cleaning, pivot tables, summary statistics and Interactive dashboard
 - Daily Steps: Average is ~6,800 steps/day, with males slightly more active than females
   
 
-# Recommendations
+## Recommendations
 - Targeted Wellness Programs: Focus on high-risk professions like nursing and sales
 
 - Stress Management: Introduce mindfulness and physical activity routines for stressed groups
@@ -70,7 +70,7 @@ Excel: Data cleaning, pivot tables, summary statistics and Interactive dashboard
 
 - Data-Driven Interventions: Use dashboards to guide personalized health coaching
   
-# 🛌 Sleep & Lifestyle dashboard Visualization Insights
+## 🛌 Sleep & Lifestyle dashboard Visualization Insights
 
 <img width="3660" height="1382" alt="image" src="https://github.com/user-attachments/assets/c703cbf0-6d4f-4fed-958b-58924e375947" />
 
