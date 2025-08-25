@@ -5,10 +5,10 @@
 - [PROJECT OVERVIEW](#project-overview)
 - [DATA SOURCE](#data-source)
 - [TOOLS](#tools)
-- [DATA PROCESSING](#data processing)
+- [DATA PROCESSING](#data-processing).
 - [SKILLS DEMONSTARTED](#skills-demonstrated)
 - [OBJECTIVES](#objectives)
-- [DATA ANALYSIS & VISUALIZATION](#data analysis & visualization)
+- [DATA ANALYSIS & VISUALIZATION](#data-analysis & visualization)
 - [INSIGHTS](#insights)
 - [RECOMMENDATIONS](#recommendations)
 
