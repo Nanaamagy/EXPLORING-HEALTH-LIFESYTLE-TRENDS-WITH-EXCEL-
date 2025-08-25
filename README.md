@@ -8,7 +8,7 @@
 - [DATA PROCESSING](#data-processing).
 - [SKILLS DEMONSTARTED](#skills-demonstrated)
 - [OBJECTIVES](#objectives)
-- [DATA ANALYSIS & VISUALIZATION](#data-analysis & visualization)
+- [DATA ANALYSIS & VISUALIZATION](#data-analysis-&-visualization)
 - [INSIGHTS](#insights)
 - [RECOMMENDATIONS](#recommendations)
 
